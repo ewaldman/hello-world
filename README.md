@@ -3,4 +3,4 @@ just a tutorial
 
 Trying to learn git
 
-Tnother try.
+Another try.
